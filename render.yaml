@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: octagono-3d
+    runtime: static
+    staticPublishPath: ./public
